@@ -1,0 +1,16 @@
+D:\temp\Tetris-master\obj\Debug\net45\Tetris.csprojAssemblyReference.cache
+D:\temp\Tetris-master\obj\Debug\net45\Tetris.AssemblyInfoInputs.cache
+D:\temp\Tetris-master\obj\Debug\net45\Tetris.AssemblyInfo.cs
+D:\temp\Tetris-master\bin\Debug\net45\Tetris.exe.config
+D:\temp\Tetris-master\bin\Debug\net45\Tetris.exe
+D:\temp\Tetris-master\bin\Debug\net45\Tetris.pdb
+D:\temp\Tetris-master\obj\Debug\net45\Tetris.exe
+D:\temp\Tetris-master\obj\Debug\net45\Tetris.pdb
+D:\temp\Tetris-master\Tetris\bin\Debug\net45\Tetris.exe.config
+D:\temp\Tetris-master\Tetris\bin\Debug\net45\Tetris.exe
+D:\temp\Tetris-master\Tetris\bin\Debug\net45\Tetris.pdb
+D:\temp\Tetris-master\Tetris\obj\Debug\net45\Tetris.csprojAssemblyReference.cache
+D:\temp\Tetris-master\Tetris\obj\Debug\net45\Tetris.AssemblyInfoInputs.cache
+D:\temp\Tetris-master\Tetris\obj\Debug\net45\Tetris.AssemblyInfo.cs
+D:\temp\Tetris-master\Tetris\obj\Debug\net45\Tetris.exe
+D:\temp\Tetris-master\Tetris\obj\Debug\net45\Tetris.pdb

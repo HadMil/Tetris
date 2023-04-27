@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\temp\\Tetris-master\\Tetris\\Tetris.csproj": {}
+  },
+  "projects": {
+    "D:\\temp\\Tetris-master\\Tetris\\Tetris.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\temp\\Tetris-master\\Tetris\\Tetris.csproj",
+        "projectName": "Tetris",
+        "projectPath": "D:\\temp\\Tetris-master\\Tetris\\Tetris.csproj",
+        "packagesPath": "C:\\Users\\dev.DESKTOP-T782H8A\\.nuget\\packages\\",
+        "outputPath": "D:\\temp\\Tetris-master\\Tetris\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dev.DESKTOP-T782H8A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

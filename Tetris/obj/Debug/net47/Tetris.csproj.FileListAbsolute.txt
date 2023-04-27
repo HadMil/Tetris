@@ -1,0 +1,3 @@
+D:\temp\Tetris-master\obj\Debug\net47\Tetris.csprojAssemblyReference.cache
+D:\temp\Tetris-master\obj\Debug\net47\Tetris.AssemblyInfoInputs.cache
+D:\temp\Tetris-master\obj\Debug\net47\Tetris.AssemblyInfo.cs
